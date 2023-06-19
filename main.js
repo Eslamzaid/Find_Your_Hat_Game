@@ -178,6 +178,8 @@ class Field {
   }
 }
 
+
+
 console.log(
   "\n\n <----------------Hello and welcome to 'find-your-hat' game!!----------------> \n\n"
 );
