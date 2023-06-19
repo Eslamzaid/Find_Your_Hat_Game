@@ -1,0 +1,12 @@
+{
+  "name": "find-your-hat",
+  "version": "1.0.0",
+  "description": "A terminal maze-solving game.",
+  "main": "main.js",
+  "author": "PYIes",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^3.2.0",
+    "prompt-sync": "^4.1.7"
+  }
+}
